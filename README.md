@@ -3,7 +3,7 @@
 https://khny258.github.io/Horiseon-Marketing-Agency/
 
 <br>
-<img src="assets/desktop.png" width="75%" height="75%">
+<img src="assets/images/desktop.png" width="75%" height="75%">
 
 The marketing agency wanted a codebase that follows accessibility standards, so I used the Social Security Administration's ANDI (Accessibility Testing Tool) tool to run an analysis. The marketing agency's codebase passed all tests except for the benefits div container background color. The minimum requirement for contrast ratio is 4.5:1. I changed the background color from #2589bd to #1a7eb2 to meet the requirement. 
 
